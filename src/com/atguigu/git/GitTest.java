@@ -10,5 +10,7 @@ public class GitTest {
         System.out.println("new branch test");
         System.out.println("push test");
         System.out.println("SSH push");
+        System.out.println("pull test");
+        
     }
 }
